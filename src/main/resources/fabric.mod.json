@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "moreblockvariations",
+  "version": "${version}",
+  "name": "MoreBlockVariations",
+  "description": "Adds a lot more types of blocks, like vertical slabs, vertical stairs and corners.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/moreblockvariations/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.beefyandtheducks.moreblockvariations.datagen.ModDataGen"
+    ],
+    "client": [
+      "com.beefyandtheducks.moreblockvariations.MoreBlockVariationsClient"
+    ],
+    "main": [
+      "com.beefyandtheducks.moreblockvariations.MoreBlockVariations"
+    ]
+  },
+  "mixins": [
+    "moreblockvariations.mixins.json"
+  ],
+  "accessWidener": "moreblockvariations.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
