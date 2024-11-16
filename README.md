@@ -9,7 +9,7 @@ git clone https://github.com/BeefyAndTheDucks/MoreBlockVariations.git
 
 Then open the project using IntelliJ (Eclipse is not officially supported by us) and let it import.
 
-Afterwards, run the `runDatagen` Gradle task.
+Afterward, run the `runDatagen` Gradle task.
 
 You should now be ready! To start the Minecraft Client, run the `runClient` Gradle Task, or to build the jar, run the `build` Gradle Task and look in `build/libs/` for the .jar file (make sure to pick the one with no suffix).
 
