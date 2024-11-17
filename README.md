@@ -1,7 +1,13 @@
 # More Block Variations
+
 A Minecraft mod adding Vertical Slabs, Vertical Stairs and Corners. 
 
+### Get the mod
+
+Get it on [Modrinth (link unavailable - under review)]()
+
 # Building:
+
 Clone or download the Source Code using either the Code dropdown - Download ZIP, Using GitHub Desktop (or other Git GUI), or using the command line: 
 ```
 git clone https://github.com/BeefyAndTheDucks/MoreBlockVariations.git
