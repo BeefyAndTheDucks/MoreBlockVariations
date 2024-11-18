@@ -15,7 +15,7 @@ git clone https://github.com/BeefyAndTheDucks/MoreBlockVariations.git
 
 Then open the project using IntelliJ (Eclipse is not officially supported by us) and let it import.
 
-Make sure the Java version is set to Java 21 in both `File | Project Structure | Project` and `File | Settings | Build, Execution, Deployment | Build Tools | Gradle`
+Make sure the Java version is set to Java 21 in `File | Project Structure | Project` and Gradle Java version is set to Project in `File | Settings | Build, Execution, Deployment | Build Tools | Gradle`
 
 Afterward, run the `runDatagen` Gradle task.
 
