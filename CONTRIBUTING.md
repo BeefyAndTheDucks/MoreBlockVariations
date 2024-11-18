@@ -124,7 +124,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/BeefyA
 include Setup of env, IDE and typical getting started instructions?
 -->
 
-Clone or download the Source Code using either the Code dropdown - Download ZIP, Using GitHub Desktop (or other Git GUI), or using the command line:
+To contribute to MoreBlockVariations, start by cloning or downloading the Source Code using either the Code dropdown - Download ZIP, Using GitHub Desktop (or other Git GUI), or using the command line:
 ```
 git clone https://github.com/BeefyAndTheDucks/MoreBlockVariations.git
 ```
@@ -138,6 +138,8 @@ Afterward, run the `runDatagen` Gradle task.
 You should now be ready! To start the Minecraft Client, run the `runClient` Gradle Task, or to build the jar, run the `build` Gradle Task and look in `build/libs/` for the .jar file (make sure to pick the one with no suffix).
 
 The main code is located at `src/main/java/com/beefyandtheducks/moreblockvariations/`
+
+When you're done, make a pull request, defining what you've added, and just wait.
 
 <!-- ### Improving The Documentation
 TODO
