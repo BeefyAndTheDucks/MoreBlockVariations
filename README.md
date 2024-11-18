@@ -4,7 +4,7 @@ A Minecraft mod adding Vertical Slabs, Vertical Stairs and Corners.
 
 ### Get the mod
 
-Get it on [Modrinth (link unavailable - under review)]()
+Get it on [Modrinth](https://modrinth.com/mod/more-block-variations)
 
 # Building:
 
