@@ -15,6 +15,7 @@ Get it on [Modrinth](https://modrinth.com/mod/more-block-variations)
 - [x] Block drops
 - [ ] Add stair/slab variatns to blocks that don't have stair/slab variants.
 - [ ] Add blocks with more than one texture support (like Oak Logs with the top and side texture)
+- [ ] Mimic properties (eg. Sand based block variations fall)
 
 # Building:
 
