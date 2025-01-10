@@ -6,7 +6,13 @@ A Minecraft mod adding Vertical Slabs, Vertical Stairs and Corners.
 
 Get it on [Modrinth](https://modrinth.com/mod/more-block-variations)
 
-## Todo:
+## Features:
+- [x] Vertical Slabs
+- [x] Vertical Stairs
+- [x] Corner Piece
+- [x] Add most blocks
+- [x] Recipes
+- [x] Block drops
 - [ ] Add stair/slab variatns to blocks that don't have stair/slab variants.
 - [ ] Add blocks with more than one texture support (like Oak Logs with the top and side texture)
 
